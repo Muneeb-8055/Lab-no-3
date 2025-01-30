@@ -10,8 +10,11 @@ namespace SubtractionOfTwoNumbers
             int number1, number2, difference;
 
             // Prompt the user to enter the first number
+ Subtract
             
-Console.Write("Enter the first number: ");
+
+            Console.Write("Enter the first number: ");
+ Sum
 Console.Write("Enter the first number: ");
             number1 = int.Parse(Console.ReadLine());
 
