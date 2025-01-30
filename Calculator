@@ -11,7 +11,12 @@ namespace DivisionOfTwoNumbers
 Console.Write("Enter the first number: ");
             // Prompt the user to enter the first number
             Console.Write("Enter the first number: ");
+ division
             number1 = double.Parse(Console.ReadLine());
+
+            number1 = int.Parse(Console.ReadLine());
+Console.Write("Enter the first number: ");
+ multiplication
 
             // Prompt the user to enter the second number
             Console.Write("Enter the second number: ");
