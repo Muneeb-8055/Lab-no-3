@@ -8,7 +8,7 @@ namespace DivisionOfTwoNumbers
         {
             // Declare variables to hold the two numbers
             double number1, number2, result;
-
+Console.Write("Enter the first number: ");
             // Prompt the user to enter the first number
             Console.Write("Enter the first number: ");
             number1 = double.Parse(Console.ReadLine());
